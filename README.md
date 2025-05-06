@@ -32,6 +32,8 @@ This project presents a anaysis of **Spotify**  using streaming data. The goal i
 - **Searchable slicers**: Filter by artist or platform
 - **Interactive charts**: Line + clustered column chart for dual comparison
 
+## Dashbord look like
+preview![dashbord preview]()
 
 ## Sql queery Highlights
 
