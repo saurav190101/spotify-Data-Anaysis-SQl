@@ -1,5 +1,7 @@
 # spotify-Data-Anaysis-SQl
 
+![logo]()
+
 # 🎧 Spotify vs YouTube Music Dashboard
 
 **Project Type:** Data Analysis & Dashboard  
