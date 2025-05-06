@@ -33,7 +33,7 @@ This project presents a anaysis of **Spotify**  using streaming data. The goal i
 - **Interactive charts**: Line + clustered column chart for dual comparison
 
 ## Dashbord look like
-preview![dashbord preview]()
+preview![dashbord preview](https://github.com/saurav190101/spotify-Data-Anaysis-SQl/blob/main/Dashboard.png)
 
 ## Sql queery Highlights
 
