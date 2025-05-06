@@ -1,6 +1,6 @@
 # spotify-Data-Anaysis-SQl
 
-![logo]()
+![logo](https://github.com/saurav190101/spotify-Data-Anaysis-SQl/blob/main/spotify-logo-1920x1080.jpg)
 
 # 🎧 Spotify vs YouTube Music Dashboard
 
